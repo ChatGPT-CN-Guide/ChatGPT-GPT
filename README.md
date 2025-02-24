@@ -40,8 +40,8 @@
 
 | 镜像站点      | 地址                                           | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 功能亮点 |
 |---------------|------------------------------------------------|----------------|----------|------------|--------|----------|
-| **蛇语 AI**   | [snakegpt.work](https://snakegpt.work)         | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
-| **GPT猫**     | [gptcat.net](https://gptcat.net)               | GPT-4,GPT-o1    | 有        | 邮箱注册   | 高     | 实时语音、视频对话|
+| **蛇语 AI**   | [snakegpt.work](https://snakegpt.work)         | GPT-4,GPT-3.5,GPT-o3,DeepSeek   | 有        | 邮箱注册   | 高     | 中文支持、绘图功能 |
+| **GPT猫**     | [gptcat.net](https://gptcat.net)               | GPT-4,GPT-o1,GPT-o3,DeepSeek,grok3,germini    | 有        | 邮箱注册   | 高     | 支持API模型以及一比一还原官网的PLUS|
 | **熊猫 GPT**  | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4,GPT-3.5   | 有        | 邮箱注册   | 高     | 稳定快速、API调用 |
 | **狗狗 GPT**  | [gptdog.online](https://gptdog.online)         | GPT-3.5         | 有        | 邮箱注册   | 中     | 使用Bug较多|
 
